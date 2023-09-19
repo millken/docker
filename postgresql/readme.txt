@@ -1,0 +1,1 @@
+https://github.com/livingdocsIO/dockerfile-postgres/blob/main/scripts/postgres-install
